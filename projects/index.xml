@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on LitongLab</title>
-    <link>https://hainaweiben.github.io/projects/</link>
+    <link>https://litonglab.github.io/projects/</link>
     <description>Recent content in Projects on LitongLab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hainaweiben.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://litonglab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Project</title>
-      <link>https://hainaweiben.github.io/projects/first_project/</link>
+      <link>https://litonglab.github.io/projects/first_project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hainaweiben.github.io/projects/first_project/</guid>
+      <guid>https://litonglab.github.io/projects/first_project/</guid>
       <description>This is a clock
 this is our first project.</description>
     </item>
