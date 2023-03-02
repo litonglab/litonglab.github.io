@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "D:/Hugo/litonglab",
+	"sourceRoot": "D:/Hugo/Homepage-configuration-file",
 	"sources": [
 		"assets/scss/core.scss",
 		"assets/scss/purecss/_base.scss",

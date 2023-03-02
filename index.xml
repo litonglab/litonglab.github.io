@@ -7,13 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://litonglab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Project</title>
-      <link>https://litonglab.github.io/projects/first_project/</link>
+      <title>blender-neighbor-discovery</title>
+      <link>https://litonglab.github.io/projects/blender-neighbor-discovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://litonglab.github.io/projects/first_project/</guid>
-      <description>This is a clock
-this is our first project.</description>
+      <guid>https://litonglab.github.io/projects/blender-neighbor-discovery/</guid>
+      <description>About This repository contains the source code of Blender. Blender is a practical simulation framework for Bluetooth Low Energy (BLE) neighbor discovery. A demo application of Blender-as-a-service can be find at AlgoSpace.
+Please cite the papers as follows (or use this bibtex record).
+Yukuan Ding, Tong Li, Jiaxin Liang, Dan Wang. Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery. ACM International Conference on Mobile, Analysis and Simulation of Wireless and Mobile Systems (MSWiM), pp.</description>
     </item>
     
     <item>
@@ -42,7 +43,7 @@ Wireless networks: Wireless networks are networks that use wireless signals for 
       
       <guid>https://litonglab.github.io/people/</guid>
       <description>LitongLab Members Welcome to LitongLab! We are a team of researchers who are committed to pushing the boundaries of technology. Our members come from diverse backgrounds and bring a wealth of knowledge and expertise to the group. The following is a list of our current members, along with links to their personal websites and GitHub profiles:
-Leaders Dr. Alice Smith = | Dr. Bob Johnson - Personal Website | GitHub Masters Ms.</description>
+Leaders Dr. Tong Li = | Masters Undergraduates We are always looking for talented and passionate researchers to join our team.</description>
     </item>
     
     <item>
@@ -51,7 +52,9 @@ Leaders Dr. Alice Smith = | Dr. Bob Johnson - Personal Website | GitHub Masters 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://litonglab.github.io/publications/</guid>
-      <description>Publications Journal Articles &amp;ldquo;Paper 1 Title,&amp;rdquo; by Author 1 and Author 2, Journal Name, January 2020. &amp;ldquo;Paper 2 Title,&amp;rdquo; by Author 3, Journal Name, March 2021. Conference Articles &amp;ldquo;Paper 3 Title,&amp;rdquo; by Author 1 and Author 3, Conference Name, April 2021. Patents &amp;ldquo;Patent 1,&amp;rdquo; by Inventor 1, Application Date: January 2019, Grant Date: December 2020. &amp;ldquo;Patent 2,&amp;rdquo; by Inventor 2 and Inventor 3, Application Date: February 2020, Grant Date: October 2021.</description>
+      <description>Publications 2023 Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu: On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.05.17. [paper]
+Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints. IEEE International Conference on Computer Communications (INFOCOM Demo), pp. 1-2, 2023.05.17. [to appear]
+Xu Zhang, Geyong Min, Tong Li, Zhan Ma, Xun Cao, Shaowei Wang: AI and Blockchain Empowered Metaverse for Web 3.</description>
     </item>
     
   </channel>
