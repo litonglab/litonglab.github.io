@@ -51,7 +51,9 @@ Leaders Dr. Alice Smith = | Dr. Bob Johnson - Personal Website | GitHub Masters 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://litonglab.github.io/publications/</guid>
-      <description>Publications Journal Articles &amp;ldquo;Paper 1 Title,&amp;rdquo; by Author 1 and Author 2, Journal Name, January 2020. &amp;ldquo;Paper 2 Title,&amp;rdquo; by Author 3, Journal Name, March 2021. Conference Articles &amp;ldquo;Paper 3 Title,&amp;rdquo; by Author 1 and Author 3, Conference Name, April 2021. Patents &amp;ldquo;Patent 1,&amp;rdquo; by Inventor 1, Application Date: January 2019, Grant Date: December 2020. &amp;ldquo;Patent 2,&amp;rdquo; by Inventor 2 and Inventor 3, Application Date: February 2020, Grant Date: October 2021.</description>
+      <description>Publications 2023 Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu: On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.05.17. paper
+Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints. IEEE International Conference on Computer Communications (INFOCOM Demo), pp. 1-2, 2023.05.17. [to appear]
+Xu Zhang, Geyong Min, Tong Li, Zhan Ma, Xun Cao, Shaowei Wang: AI and Blockchain Empowered Metaverse for Web 3.</description>
     </item>
     
   </channel>
