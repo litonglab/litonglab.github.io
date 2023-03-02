@@ -7,13 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://litonglab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Project</title>
-      <link>https://litonglab.github.io/projects/first_project/</link>
+      <title>blender-neighbor-discovery</title>
+      <link>https://litonglab.github.io/projects/blender-neighbor-discovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://litonglab.github.io/projects/first_project/</guid>
-      <description>This is a clock
-this is our first project.</description>
+      <guid>https://litonglab.github.io/projects/blender-neighbor-discovery/</guid>
+      <description>About This repository contains the source code of Blender. Blender is a practical simulation framework for Bluetooth Low Energy (BLE) neighbor discovery. A demo application of Blender-as-a-service can be find at AlgoSpace.
+Please cite the papers as follows (or use this bibtex record).
+Yukuan Ding, Tong Li, Jiaxin Liang, Dan Wang. Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery. ACM International Conference on Mobile, Analysis and Simulation of Wireless and Mobile Systems (MSWiM), pp.</description>
     </item>
     
   </channel>
