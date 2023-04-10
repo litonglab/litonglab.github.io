@@ -7,27 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://litonglab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FiND：基于环境指纹的蓝牙信标感知系统</title>
-      <link>https://litonglab.github.io/projects/accelerating-ble-neighbor-discovery-via-wi-fi-fingerprints/</link>
+      <title>FiND</title>
+      <link>https://litonglab.github.io/projects/find/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://litonglab.github.io/projects/accelerating-ble-neighbor-discovery-via-wi-fi-fingerprints/</guid>
+      <guid>https://litonglab.github.io/projects/find/</guid>
       <description>Project Title: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints
-Author(s):胡博文，涂冠杰 instructor：李彤
-[address] Introduction：We demonstrate the design of FiND, a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.</description>
+Author(s): Bowen Hu，Guangjie Tu
+Instructor: 李彤
+[Github] Introduction
+We demonstrate the design of FiND, a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.</description>
     </item>
     
     <item>
-      <title>蓝牙邻居发现协议仿真框架及平台</title>
-      <link>https://litonglab.github.io/projects/blender-neighbor-discovery/</link>
+      <title>Blender</title>
+      <link>https://litonglab.github.io/projects/blender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://litonglab.github.io/projects/blender-neighbor-discovery/</guid>
+      <guid>https://litonglab.github.io/projects/blender/</guid>
       <description>Project Title: Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery
-Author(s):杨兆祺，曹思源 instructor：李彤
+Author(s): Zhaoqi Yang, Siyuan Cao
+Instructor：Tong Li
 [A demo application] .
-Introduction：In the widely used Bluetooth Low-Energy (BLE) neighbor discovery, the parameter configuration of neighbor discovery directly decides the results of the trade-off between discovery latency and power consumption. Therefore, it requires evaluating whether any given parameter configuration meets the demands. The existing solutions, however, are far from satisfactory due to unsolved issues.
-Blender, a simulation framework that produces a determined and full probabilistic distribution of discovery latency for a given parameter configuration.</description>
+Introduction
+In the widely used Bluetooth Low-Energy (BLE) neighbor discovery, the parameter configuration of neighbor discovery directly decides the results of the trade-off between discovery latency and power consumption. Therefore, it requires evaluating whether any given parameter configuration meets the demands. The existing solutions, however, are far from satisfactory due to unsolved issues.</description>
     </item>
     
     <item>
@@ -46,7 +49,14 @@ Wireless networks: Wireless networks are networks that use wireless signals for 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://litonglab.github.io/news/</guid>
-      <description>2022 2022.12.02: Our paper is accepted by IEEE INFOCOM 2023. 2022.11.16: Our paper is published in CCCF. 2022.08.15: Our paper is accepted by ACM MSWiM 2022. 2022.07.15: Our paper is accepted by IEEE/ACM Transactions on Networking. 2022.06.22: Our paper is accepted by ACM SIGCOMM 2022 Workshop. 2022.03.07: Two of our papers are accepted by IEEE WoWMoM 2022​. 2020 2020.08.13: Gave a talk in the ACM SIGCOMM, which was held virtually (online).</description>
+      <description>News 2023.03.29: Our paper is accepted by 软件学报.
+2023.02.11: Our paper is accepted by IEEE INFOCOM Demo 2023.
+2023.02.06: Our paper is accepted by IEEE Communications Magazine.
+2022.12.02: Our paper is accepted by IEEE INFOCOM 2023.
+2022.11.16: Our paper is published in CCCF.
+2022.08.15: Our paper is accepted by ACM MSWiM 2022.
+2022.07.15: Our paper is accepted by IEEE/ACM Transactions on Networking.
+2022.06.22: Our paper is accepted by ACM SIGCOMM 2022 Workshop.</description>
     </item>
     
     <item>
@@ -55,8 +65,8 @@ Wireless networks: Wireless networks are networks that use wireless signals for 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://litonglab.github.io/people/</guid>
-      <description>LitongLab Members Welcome to LitongLab! We are a team of researchers who are committed to pushing the boundaries of technology. Our members come from diverse backgrounds and bring a wealth of knowledge and expertise to the group. The following is a list of our current members, along with links to their personal websites and GitHub profiles:
-Leaders Dr. Tong Li = | Masters Undergraduates We are always looking for talented and passionate researchers to join our team.</description>
+      <description>LitongLab Members Welcome to LitongLab! We are a team of researchers who are committed to pushing the boundaries of technology. Our members come from diverse backgrounds and bring a wealth of knowledge and expertise to the group. The following is a list of our current members, along with links to their personal websites.
+Advisor Dr. Tong Li DBIIR Research Group School of Information / DEKE Lab Renmin University of China P- h.</description>
     </item>
     
     <item>
@@ -65,9 +75,9 @@ Leaders Dr. Tong Li = | Masters Undergraduates We are always looking for talente
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://litonglab.github.io/publications/</guid>
-      <description>Publications 2023 Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu: On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.05.17. [paper]
-Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints. IEEE International Conference on Computer Communications (INFOCOM Demo), pp. 1-2, 2023.05.17. [to appear]
-Xu Zhang, Geyong Min, Tong Li, Zhan Ma, Xun Cao, Shaowei Wang: AI and Blockchain Empowered Metaverse for Web 3.</description>
+      <description>Publications Journal Xu Zhang, Geyong Min, Tong Li, Zhan Ma, Xun Cao, Shaowei Wang: AI and Blockchain Empowered Metaverse for Web 3.0: Vision, Architecture, and Future Directions. IEEE Communications Magazine, pp. 1-7, 2023.2.7. [paper]
+柴云鹏, 李彤, 范举, 卢卫, 张峰, 杜小勇: 跨域数据管理的内涵与挑战. 中国计算机学会通讯 (CCCF), vol.18, no.11, pp. 29-33, 2022.11.16. [paper]
+Xinle Du, Ke Xu, Lei Xu, Kai Zheng, Meng Shen, Bo Wu, Tong Li*: R-AQM: Reverse ACK Active Queue Management in Multi-tenant Data Centers.</description>
     </item>
     
   </channel>

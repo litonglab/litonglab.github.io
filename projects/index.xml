@@ -7,27 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://litonglab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FiND：基于环境指纹的蓝牙信标感知系统</title>
-      <link>https://litonglab.github.io/projects/accelerating-ble-neighbor-discovery-via-wi-fi-fingerprints/</link>
+      <title>FiND</title>
+      <link>https://litonglab.github.io/projects/find/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://litonglab.github.io/projects/accelerating-ble-neighbor-discovery-via-wi-fi-fingerprints/</guid>
+      <guid>https://litonglab.github.io/projects/find/</guid>
       <description>Project Title: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints
-Author(s):胡博文，涂冠杰 instructor：李彤
-[address] Introduction：We demonstrate the design of FiND, a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.</description>
+Author(s): Bowen Hu，Guangjie Tu
+Instructor: 李彤
+[Github] Introduction
+We demonstrate the design of FiND, a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.</description>
     </item>
     
     <item>
-      <title>蓝牙邻居发现协议仿真框架及平台</title>
-      <link>https://litonglab.github.io/projects/blender-neighbor-discovery/</link>
+      <title>Blender</title>
+      <link>https://litonglab.github.io/projects/blender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://litonglab.github.io/projects/blender-neighbor-discovery/</guid>
+      <guid>https://litonglab.github.io/projects/blender/</guid>
       <description>Project Title: Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery
-Author(s):杨兆祺，曹思源 instructor：李彤
+Author(s): Zhaoqi Yang, Siyuan Cao
+Instructor：Tong Li
 [A demo application] .
-Introduction：In the widely used Bluetooth Low-Energy (BLE) neighbor discovery, the parameter configuration of neighbor discovery directly decides the results of the trade-off between discovery latency and power consumption. Therefore, it requires evaluating whether any given parameter configuration meets the demands. The existing solutions, however, are far from satisfactory due to unsolved issues.
-Blender, a simulation framework that produces a determined and full probabilistic distribution of discovery latency for a given parameter configuration.</description>
+Introduction
+In the widely used Bluetooth Low-Energy (BLE) neighbor discovery, the parameter configuration of neighbor discovery directly decides the results of the trade-off between discovery latency and power consumption. Therefore, it requires evaluating whether any given parameter configuration meets the demands. The existing solutions, however, are far from satisfactory due to unsolved issues.</description>
     </item>
     
   </channel>
