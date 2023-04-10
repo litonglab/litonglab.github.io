@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "D:/Hugo/Homepage-configuration-file",
+	"sourceRoot": "D:/Hugo1",
 	"sources": [
 		"assets/scss/core.scss",
 		"assets/scss/purecss/_base.scss",
