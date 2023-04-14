@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://litonglab.github.io/projects/find/</loc>
+    <loc>https://litonglab.github.io/projects/tack/</loc>
   </url><url>
     <loc>https://litonglab.github.io/projects/blender/</loc>
+  </url><url>
+    <loc>https://litonglab.github.io/projects/find/</loc>
+  </url><url>
+    <loc>https://litonglab.github.io/projects/</loc>
   </url><url>
     <loc>https://litonglab.github.io/categories/</loc>
   </url><url>
@@ -15,8 +19,6 @@
     <loc>https://litonglab.github.io/news/</loc>
   </url><url>
     <loc>https://litonglab.github.io/people/</loc>
-  </url><url>
-    <loc>https://litonglab.github.io/projects/</loc>
   </url><url>
     <loc>https://litonglab.github.io/publications/</loc>
   </url><url>

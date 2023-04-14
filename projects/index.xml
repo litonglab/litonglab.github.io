@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on LitongLab</title>
+    <title>LitongLab</title>
     <link>https://litonglab.github.io/projects/</link>
-    <description>Recent content in Projects on LitongLab</description>
+    <description>Recent content on LitongLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://litonglab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FiND</title>
-      <link>https://litonglab.github.io/projects/find/</link>
+      <title>TACK</title>
+      <link>https://litonglab.github.io/projects/tack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://litonglab.github.io/projects/find/</guid>
-      <description>Project Title: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints
-Author(s): Bowen Hu，Guangjie Tu
-Instructor: 李彤
-[Github] Introduction
-We demonstrate the design of FiND, a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.</description>
+      <guid>https://litonglab.github.io/projects/tack/</guid>
+      <description>Project Name: TACK
+[Github] [Video and Slides] Abstract
+The shared nature of the wireless medium induces contention between data transport and backward signaling, such as acknowledgement. The current way of TCP acknowledgment induces control overhead which is counter-productive for TCP performance especially in wireless local area network (WLAN) scenarios. In this paper, we present a new acknowledgement called TACK (&amp;ldquo;Tame ACK&amp;rdquo;), as well as its TCP implementation TCP-TACK. TCP-TACK works on top of commodity WLAN, delivering high wireless transport goodput with minimal control overhead in the form of ACKs, without any hardware modification.</description>
     </item>
     
     <item>
@@ -25,12 +23,23 @@ We demonstrate the design of FiND, a novel neighbor discovery protocol that acce
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://litonglab.github.io/projects/blender/</guid>
-      <description>Project Title: Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery
-Author(s): Zhaoqi Yang, Siyuan Cao
-Instructor：Tong Li
-[A demo application] .
-Introduction
-In the widely used Bluetooth Low-Energy (BLE) neighbor discovery, the parameter configuration of neighbor discovery directly decides the results of the trade-off between discovery latency and power consumption. Therefore, it requires evaluating whether any given parameter configuration meets the demands. The existing solutions, however, are far from satisfactory due to unsolved issues.</description>
+      <description>Project Name: Blender
+[Github] [A demo application] Abstract
+In the widely used Bluetooth Low-Energy (BLE) neighbor discovery, the parameter configuration of neighbor discovery directly decides the results of the trade-off between discovery latency and power consumption. Therefore, it requires evaluating whether any given parameter configuration meets the demands. The existing solutions, however, are far from satisfactory due to unsolved issues.
+Blender, a simulation framework that produces a determined and full probabilistic distribution of discovery latency for a given parameter configuration.</description>
+    </item>
+    
+    <item>
+      <title>FiND</title>
+      <link>https://litonglab.github.io/projects/find/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://litonglab.github.io/projects/find/</guid>
+      <description>Project Name: FiND
+[Github] Abstract
+FiND is a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.
+Reference
+Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints.</description>
     </item>
     
   </channel>

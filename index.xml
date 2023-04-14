@@ -7,16 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://litonglab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FiND</title>
-      <link>https://litonglab.github.io/projects/find/</link>
+      <title>TACK</title>
+      <link>https://litonglab.github.io/projects/tack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://litonglab.github.io/projects/find/</guid>
-      <description>Project Title: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints
-Author(s): Bowen Hu，Guangjie Tu
-Instructor: 李彤
-[Github] Introduction
-We demonstrate the design of FiND, a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.</description>
+      <guid>https://litonglab.github.io/projects/tack/</guid>
+      <description>Project Name: TACK
+[Github] [Video and Slides] Abstract
+The shared nature of the wireless medium induces contention between data transport and backward signaling, such as acknowledgement. The current way of TCP acknowledgment induces control overhead which is counter-productive for TCP performance especially in wireless local area network (WLAN) scenarios. In this paper, we present a new acknowledgement called TACK (&amp;ldquo;Tame ACK&amp;rdquo;), as well as its TCP implementation TCP-TACK. TCP-TACK works on top of commodity WLAN, delivering high wireless transport goodput with minimal control overhead in the form of ACKs, without any hardware modification.</description>
     </item>
     
     <item>
@@ -25,12 +23,23 @@ We demonstrate the design of FiND, a novel neighbor discovery protocol that acce
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://litonglab.github.io/projects/blender/</guid>
-      <description>Project Title: Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery
-Author(s): Zhaoqi Yang, Siyuan Cao
-Instructor：Tong Li
-[A demo application] .
-Introduction
-In the widely used Bluetooth Low-Energy (BLE) neighbor discovery, the parameter configuration of neighbor discovery directly decides the results of the trade-off between discovery latency and power consumption. Therefore, it requires evaluating whether any given parameter configuration meets the demands. The existing solutions, however, are far from satisfactory due to unsolved issues.</description>
+      <description>Project Name: Blender
+[Github] [A demo application] Abstract
+In the widely used Bluetooth Low-Energy (BLE) neighbor discovery, the parameter configuration of neighbor discovery directly decides the results of the trade-off between discovery latency and power consumption. Therefore, it requires evaluating whether any given parameter configuration meets the demands. The existing solutions, however, are far from satisfactory due to unsolved issues.
+Blender, a simulation framework that produces a determined and full probabilistic distribution of discovery latency for a given parameter configuration.</description>
+    </item>
+    
+    <item>
+      <title>FiND</title>
+      <link>https://litonglab.github.io/projects/find/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://litonglab.github.io/projects/find/</guid>
+      <description>Project Name: FiND
+[Github] Abstract
+FiND is a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.
+Reference
+Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints.</description>
     </item>
     
     <item>
@@ -65,8 +74,8 @@ Wireless networks: Wireless networks are networks that use wireless signals for 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://litonglab.github.io/people/</guid>
-      <description>LitongLab Members Welcome to LitongLab! We are a team of researchers who are committed to pushing the boundaries of technology. Our members come from diverse backgrounds and bring a wealth of knowledge and expertise to the group. The following is a list of our current members, along with links to their personal websites.
-Advisor Dr. Tong Li DBIIR Research Group School of Information / DEKE Lab Renmin University of China P- h.</description>
+      <description>Header Dr. Tong Li
+Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua University Email: tong.li [at] ruc.edu.cn Office: Room 421, Information Building, No. 59 Zhongguancun Street, Beijing, China. 100872 PhD Students DuLing Xu (PhD student since 2022) Master Students Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022) Xinyu Ma (master student since 2022) Shuaipeng Zhu (master student since 2022) Shuoru Yuan (master student since 2022) Undergraduate Students Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Guanjie Tu (undergraduate student since 2020) Siyuan Cao (undergraduate student since 2020) Annual Group Photo @ 2023 </description>
     </item>
     
     <item>
@@ -75,9 +84,9 @@ Advisor Dr. Tong Li DBIIR Research Group School of Information / DEKE Lab Renmin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://litonglab.github.io/publications/</guid>
-      <description>Publications Journal Xu Zhang, Geyong Min, Tong Li, Zhan Ma, Xun Cao, Shaowei Wang: AI and Blockchain Empowered Metaverse for Web 3.0: Vision, Architecture, and Future Directions. IEEE Communications Magazine, pp. 1-7, 2023.2.7. [paper]
-柴云鹏, 李彤, 范举, 卢卫, 张峰, 杜小勇: 跨域数据管理的内涵与挑战. 中国计算机学会通讯 (CCCF), vol.18, no.11, pp. 29-33, 2022.11.16. [paper]
-Xinle Du, Ke Xu, Lei Xu, Kai Zheng, Meng Shen, Bo Wu, Tong Li*: R-AQM: Reverse ACK Active Queue Management in Multi-tenant Data Centers.</description>
+      <description>Conference Papers Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu: On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.05.17. [paper]
+Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints. IEEE International Conference on Computer Communications (INFOCOM Demo), pp. 1-2, 2023.05.17. [to appear]
+Yukuan Ding, Tong Li, Jiaxin Liang, Dan Wang: Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery.</description>
     </item>
     
   </channel>
