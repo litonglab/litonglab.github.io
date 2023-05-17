@@ -75,7 +75,7 @@ Wireless networks: Wireless networks are networks that use wireless signals for 
       
       <guid>https://www.litonglab.com/people/</guid>
       <description>Header Dr. Tong Li
-Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua University PhD Students DuLing Xu (PhD student since 2022) Master Students Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022) Xinyu Ma (master student since 2022) Shuaipeng Zhu (master student since 2022) Shuoru Yuan (master student since 2022) Undergraduate Students Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Guanjie Tu (undergraduate student since 2020) Siyuan Cao (undergraduate student since 2020) Shuailong Yang (undergraduate student since 2019) Yiming Gao (undergraduate student since 2019) Liang Ma (undergraduate student since 2019) Annual Group Photo @ 2023 </description>
+Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua UniversityPhD Students DuLing Xu (PhD student since 2022) Master Students Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022) Xinyu Ma (master student since 2022) Shuaipeng Zhu (master student since 2022) Shuoru Yuan (master student since 2022) Undergraduate Students Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Guanjie Tu (undergraduate student since 2020) Siyuan Cao (undergraduate student since 2020) Shuailong Yang (undergraduate student since 2019) Yiming Gao (undergraduate student since 2019) Liang Ma (undergraduate student since 2019) Annual Group Photo @ 2023 </description>
     </item>
     
     <item>
@@ -84,9 +84,10 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/publications/</guid>
-      <description>Conference Papers Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu: On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.05.17. [paper]
-Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints. IEEE International Conference on Computer Communications (INFOCOM Demo), pp. 1-2, 2023.05.17. [paper]
-Yukuan Ding, Tong Li, Jiaxin Liang, Dan Wang: Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery.</description>
+      <description>Conference Papers 李伟明, 李彤, 张大方, 戴隆超, 柴云鹏:跨空间域数据管理分布式共识算法：现状，挑战和展望.大数据, pp. 1-19, 2023.04.12. [to appear]
+庄琪钰, 李彤, 卢卫, 杜小勇:Harp：面向跨空间域的分布式事务优化算法.大数据, pp. 1-23, 2023.05.05. [to appear]
+Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu: On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.05.17. [paper]
+Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints.</description>
     </item>
     
   </channel>
