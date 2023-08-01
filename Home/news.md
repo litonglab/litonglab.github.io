@@ -12,7 +12,7 @@ gallery_statistic:
   value: '*value3*'
 ---
 
-
+- 2023.07.30  Our paper is is accepted by IEEE ICNP 2023.
 - 2023.06.26  实验室成员获得2023年“中国高校计算机大赛—网络技术挑战赛（A-ST）”三等奖。
   成员：杨兆棋（大二）、曹景堃（大二）、杨艺琳（大二）、胡博文（大二）
 - 2023.03.29  Our paper is accepted by 软件学报.
