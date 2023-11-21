@@ -13,7 +13,7 @@
       
       <guid>https://www.litonglab.com/projects/tack/</guid>
       <description>Project Name: TACK
-[Github] [Slide] Abstract
+[Github] [Video and Slides] Abstract
 The shared nature of the wireless medium induces contention between data transport and backward signaling, such as acknowledgement. The current way of TCP acknowledgment induces control overhead which is counter-productive for TCP performance especially in wireless local area network (WLAN) scenarios. In this paper, we present a new acknowledgement called TACK (&amp;ldquo;Tame ACK&amp;rdquo;), as well as its TCP implementation TCP-TACK. TCP-TACK works on top of commodity WLAN, delivering high wireless transport goodput with minimal control overhead in the form of ACKs, without any hardware modification.</description>
     </item>
     
@@ -88,7 +88,7 @@ Wireless networks: Wireless networks are networks that use wireless signals for 
       
       <guid>https://www.litonglab.com/people/</guid>
       <description>Header Dr. Tong Li
-Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua UniversityPhD Students DuLing Xu (PhD student since 2022) Master Students Zegang Sun(master student since 2023) Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022) Xinyu Ma (master student since 2022) Shuaipeng Zhu (master student since 2022) Shuoru Yuan (master student since 2022) Undergraduate Students Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Guanjie Tu (undergraduate student since 2020) Siyuan Cao (undergraduate student since 2020) Yijin Zhu (undergraduate student since 2020) Shuailong Yang (undergraduate student since 2019) Yiming Gao (undergraduate student since 2019) Liang Ma (undergraduate student since 2019) Peiyu Zhao (undergraduate student since 2022) Yaoping Luo (undergraduate student since 2022) Jiahe Zhang (undergraduate student since 2022) Annual Group Photo @ 2023 </description>
+Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua UniversityPhD Students DuLing Xu (PhD student since 2022) Master Students Jiuxiang Zhu((master student since 2024)) Zegang Sun(master student since 2023) Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022) Xinyu Ma (master student since 2022) Shuaipeng Zhu (master student since 2022) Shuoru Yuan (master student since 2022) Undergraduate Students Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Jinxiang Zhao (undergraduate student since 2021) Haohan Liao(undergraduate student since 2021) Guanjie Tu (undergraduate student since 2020) Siyuan Cao (undergraduate student since 2020) Yijin Zhu (undergraduate student since 2020) Yu Sun (undergraduate student since 2020) Shuailong Yang (undergraduate student since 2019) Yiming Gao (undergraduate student since 2019) Liang Ma (undergraduate student since 2019) Peiyu Zhao (undergraduate student since 2022) Yaoping Luo (undergraduate student since 2022) Jingjing Li (undergraduate student since 2022) Jiahe Zhang (undergraduate student since 2022) Zimeng Wang (undergraduate student since 2022) Zijia wang (undergraduate student since 2022) Annual Group Photo @ 2023 </description>
     </item>
     
     <item>
@@ -97,9 +97,8 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/publications/</guid>
-      <description>Conference Papers Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu: On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.05.17. [paper]
-Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints. IEEE International Conference on Computer Communications (INFOCOM Demo), pp. 1-2, 2023.05.17. [paper]
-Yukuan Ding, Tong Li, Jiaxin Liang, Dan Wang: Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery.</description>
+      <description>Conference Papers Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jinkun Cao, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Ke Xu. ART: Adaptive Retransmission for Wide-Area Loss Recovery in the Wild. IEEE International Conference on Network Protocols (ICNP), pp.1-11, 2023.10.10.[paper]
+Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu: On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.</description>
     </item>
     
   </channel>

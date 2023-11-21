@@ -13,7 +13,7 @@
       
       <guid>https://www.litonglab.com/projects/tack/</guid>
       <description>Project Name: TACK
-[Github] [Slide] Abstract
+[Github] [Video and Slides] Abstract
 The shared nature of the wireless medium induces contention between data transport and backward signaling, such as acknowledgement. The current way of TCP acknowledgment induces control overhead which is counter-productive for TCP performance especially in wireless local area network (WLAN) scenarios. In this paper, we present a new acknowledgement called TACK (&amp;ldquo;Tame ACK&amp;rdquo;), as well as its TCP implementation TCP-TACK. TCP-TACK works on top of commodity WLAN, delivering high wireless transport goodput with minimal control overhead in the form of ACKs, without any hardware modification.</description>
     </item>
     
