@@ -18,7 +18,7 @@
     <meta charset="utf-8">
     <link rel="shortcut icon" href='/favicon.ico' type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title> - LitongLab</title>
+    <title>Art - LitongLab</title>
 
     
 
@@ -119,7 +119,7 @@
                     
                         <a href="/publications/" class="pure-menu-link">Publications</a>
                     
-                </li><li class="navbar-item pure-menu-item active">
+                </li><li class="navbar-item pure-menu-item insection">
                     
                         <a href="/projects/" class="pure-menu-link">Projects</a>
                     
@@ -146,76 +146,28 @@
                 
 
 
+    <div class="content-margin">
 
-
-
-
+<article class="line-numbers">
     
-
-
-<div class="content-margin">
-    <div class="my-8">
-        <h1></h1>
-        
-    </div>
-
     
-        <div class="bookcase-layout content-margin">
-            
+    <p><strong>Project Name</strong>: Art</p>
+<p><a href="https://github.com/litonglab/quic-art"> [Github] </a></p>
+<p><a href="https://github.com/litonglab/quic-art/tree/main/slides"> [A demo application] </a></p>
+<p><strong>Abstract</strong></p>
+<p>Packet losses significantly impact the user experience of wide-area applications such as content distribution and remote procedure call (RPC) based services. However, our production network measurement studies show that the legacy loss recovery is far from satisfactory due to the wide-area loss characteristics (i.e., dynamics and burstiness) in the wild. In this paper, we propose a sender-side Adaptive ReTransmission scheme, ART, which minimizes the recovery time of lost packets with minimal redundancy cost. Distinguishing itself from forward- error-correction (FEC), which preemptively sends redundant data packets to prevent loss, ART functions as an automatic- repeat-request (ARQ) scheme. It applies redundancy specifically to lost packets instead of unlost packets, thereby addressing the characteristic patterns of wide-area losses in real-world scenarios. We implement ART upon QUIC protocol and evaluate it via both trace-driven emulation and real-world deployment. The results show that ART reduces up to 34% of flow completion time (FCT) for delay-sensitive transmissions, improves up to 28% of goodput for throughput-intensive transmissions, and saves up to 90% of redundancy cost.</p>
+<p><strong>Reference</strong></p>
+<ul>
+<li>Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jinkun Cao, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Ke Xu. ART: Adaptive Retransmission for Wide-Area Loss Recovery in the Wild. IEEE International Conference on Network Protocols (ICNP), pp.1-11, 2023.10.10.</li>
+</ul>
+<figure><img src="Key_modules_of_ART.png"
+         alt="Key modules of ART"/><figcaption>
+            <p>Key modules of ART</p>
+        </figcaption>
+</figure>
 
 
-<div class="bookcase-item">
-    <figure>
-        <img src="/images/project_tack.png" class="bookcase-item-img-light">
-        <img src="/images/project_tack.png" class="bookcase-item-img-dark">
-        <a href="/projects/tack/" class="bookcase-item-overlay"></a>
-    </figure>
-    <figcaption>
-        <a href="/projects/tack/">TACK</a>
-    </figcaption>
-</div>
-
-
-
-<div class="bookcase-item">
-    <figure>
-        <img src="/images/Key_modules_of_ART.png" class="bookcase-item-img-light">
-        <img src="/images/Key_modules_of_ART.png" class="bookcase-item-img-dark">
-        <a href="/projects/art/" class="bookcase-item-overlay"></a>
-    </figure>
-    <figcaption>
-        <a href="/projects/art/">Art</a>
-    </figcaption>
-</div>
-
-
-
-<div class="bookcase-item">
-    <figure>
-        <img src="/images/project_blender.png" class="bookcase-item-img-light">
-        <img src="/images/project_blender.png" class="bookcase-item-img-dark">
-        <a href="/projects/blender/" class="bookcase-item-overlay"></a>
-    </figure>
-    <figcaption>
-        <a href="/projects/blender/">Blender</a>
-    </figcaption>
-</div>
-
-
-
-<div class="bookcase-item">
-    <figure>
-        <img src="/images/project_find.png" class="bookcase-item-img-light">
-        <img src="/images/project_find.png" class="bookcase-item-img-dark">
-        <a href="/projects/find/" class="bookcase-item-overlay"></a>
-    </figure>
-    <figcaption>
-        <a href="/projects/find/">FiND</a>
-    </figcaption>
-</div>
-
-        </div>
-    
+</article>
 </div>
 
 

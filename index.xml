@@ -13,8 +13,19 @@
       
       <guid>https://www.litonglab.com/projects/tack/</guid>
       <description>Project Name: TACK
-[Github] [Video and Slides] Abstract
+[Github] [Slide] Abstract
 The shared nature of the wireless medium induces contention between data transport and backward signaling, such as acknowledgement. The current way of TCP acknowledgment induces control overhead which is counter-productive for TCP performance especially in wireless local area network (WLAN) scenarios. In this paper, we present a new acknowledgement called TACK (&amp;ldquo;Tame ACK&amp;rdquo;), as well as its TCP implementation TCP-TACK. TCP-TACK works on top of commodity WLAN, delivering high wireless transport goodput with minimal control overhead in the form of ACKs, without any hardware modification.</description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://www.litonglab.com/projects/art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.litonglab.com/projects/art/</guid>
+      <description>Project Name: Art
+[Github] [A demo application] Abstract
+Packet losses significantly impact the user experience of wide-area applications such as content distribution and remote procedure call (RPC) based services. However, our production network measurement studies show that the legacy loss recovery is far from satisfactory due to the wide-area loss characteristics (i.e., dynamics and burstiness) in the wild. In this paper, we propose a sender-side Adaptive ReTransmission scheme, ART, which minimizes the recovery time of lost packets with minimal redundancy cost.</description>
     </item>
     
     <item>
