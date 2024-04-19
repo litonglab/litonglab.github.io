@@ -23,7 +23,7 @@ The shared nature of the wireless medium induces contention between data transpo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/projects/art/</guid>
-      <description>Project Name: Art
+      <description>Project Name: ART
 [Github] [A demo application] Abstract
 Packet losses significantly impact the user experience of wide-area applications such as content distribution and remote procedure call (RPC) based services. However, our production network measurement studies show that the legacy loss recovery is far from satisfactory due to the wide-area loss characteristics (i.e., dynamics and burstiness) in the wild. In this paper, we propose a sender-side Adaptive ReTransmission scheme, ART, which minimizes the recovery time of lost packets with minimal redundancy cost.</description>
     </item>
@@ -69,16 +69,16 @@ Wireless networks: Wireless networks are networks that use wireless signals for 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/news/</guid>
-      <description>News 2023.10.25 Our paper is accepted by IEEE WISE.
+      <description>News 2024.04.15	Two of our papers are accepted by IEEE/ACM IWQoS 2024.
+2024.04.13	Our paper is accepted by IEEE ICDCS 2024.
+2023.10.25 Our paper is accepted by IEEE WISE.
 2023.09.07 Our paper is accepted by 中国网络大会.
 2023.08.01 实验室成员获得第九届中国国际“互联网 + ”大学生创新创业大赛北京赛区复赛产业命题赛道三等奖。
 2023.07.03 Our paper is accepted by ICNP 2023.
 2023.07.07 Our two papers are accepted by SIGCOMM&#39;23 Poster and Demos.
 2023.06.26 实验室成员获得2023年“中国高校计算机大赛—网络技术挑战赛（A-ST）”三等奖。 成员：杨兆棋（大二）、曹景堃（大二）、杨艺琳（大二）、胡博文（大二）
 2023.03.29 Our paper is accepted by 软件学报.
-2023.02.11 Our paper is accepted by IEEE INFOCOM Demo 2023.
-2023.02.06 Our paper is accepted by IEEE Communications Magazine.
-2022.12.06 实验室成员获得2022 年“中国高校计算机大赛—智能交互创新赛”全国总决赛三等奖。 成员：蒋岱均（大二）、曹思源 （大三）、杨兆棋（大二）、刘威（研一）</description>
+2023.02.11 Our paper is accepted by IEEE INFOCOM Demo 2023.</description>
     </item>
     
     <item>
@@ -88,7 +88,7 @@ Wireless networks: Wireless networks are networks that use wireless signals for 
       
       <guid>https://www.litonglab.com/people/</guid>
       <description>Header Dr. Tong Li
-Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua UniversityPhD Students DuLing Xu (PhD student since 2022) Master Students Jiuxiang Zhu (master student since 2024) Zegang Sun (master student since 2023) Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022) Xinyu Ma (master student since 2022) Shuaipeng Zhu (master student since 2022) Shuoru Yuan (master student since 2022) Undergraduate Students Jiahe Zhang (undergraduate student since 2022) Zimeng Wang (undergraduate student since 2022) Zijia Wang (undergraduate student since 2022) Peiyu Zhao (undergraduate student since 2022) Yaoping Luo (undergraduate student since 2022) Jingjing Li (undergraduate student since 2022) Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Jinxiang Zhao (undergraduate student since 2021) Haohan Liao (undergraduate student since 2021) Guanjie Tu (undergraduate student since 2020) Siyuan Cao (undergraduate student since 2020) Yijin Zhu (undergraduate student since 2020) Yu Sun (undergraduate student since 2020) Alumni Shuailong Yang (undergraduate student since 2019) Yiming Gao (undergraduate student since 2019) Liang Ma (undergraduate student since 2019) Annual Group Photo @ 2023 </description>
+Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua UniversityPhD Students DuLing Xu (PhD student since 2022) Master Students Jiuxiang Zhu (master student since 2024) Zegang Sun (master student since 2023) Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022) Xinyu Ma (master student since 2022) Shuaipeng Zhu (master student since 2022) Shuoru Yuan (master student since 2022) Undergraduate Students Jiahe Zhang (undergraduate student since 2022) Zimeng Wang (undergraduate student since 2022) Zijia Wang (undergraduate student since 2022) Peiyu Zhao (undergraduate student since 2022) Yaoping Luo (undergraduate student since 2022) Jingjing Li (undergraduate student since 2022) Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Jinxiang Zhao (undergraduate student since 2021) Haohan Liao (undergraduate student since 2021) Guanjie Tu (undergraduate student since 2020) Siyuan Cao (undergraduate student since 2020) Yijin Zhu (undergraduate student since 2020) Yu Sun (undergraduate student since 2020) Alumni Shuailong Yang (undergraduate student since 2019) Yiming Gao (undergraduate student since 2019) Liang Ma (undergraduate student since 2019) Annual Group Photo @ 2023 Annual Group Photo @ 2024 </description>
     </item>
     
     <item>
@@ -97,8 +97,9 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/publications/</guid>
-      <description>Conference Papers Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jinkun Cao, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Ke Xu. ART: Adaptive Retransmission for Wide-Area Loss Recovery in the Wild. IEEE International Conference on Network Protocols (ICNP), pp.1-11, 2023.10.10.[paper]
-Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu: On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.</description>
+      <description>Conference Papers Shuaipeng Zhu, Tong Li*, Xinyu Ma, Yinfeng Zhu, Taotao Zhang, Senzhen Liu, Haiyang Wang, Ke Xu:PolyCC: Poly-Algorithmic Congestion Control.ACM SIGCOMM, pp. 1129-1131, 2023.09.10. [paper][poster]
+Xu Yan, Tong Li*, Bo Wu, Cheng Luo, Fuyu Wang, Haiyang Wang, Ke Xu: TOO: Accelerating Loss Recovery by Taming On-Off Traffic Patterns.ACM SIGCOMM, pp. 1147-1149, 2023.09.10. [paper][poster]
+Bo Wu, Tong Li*, Cheng Luo, Xu Yan, Fuyu Wang, Changkui Ouyang, Lingfeng Guo, Haiyang Wang, Ke Xu: Reducing First-Frame Delay of Live Streaming by Simultaneously Initializing Window and Rate.</description>
     </item>
     
   </channel>

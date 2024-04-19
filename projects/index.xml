@@ -23,7 +23,7 @@ The shared nature of the wireless medium induces contention between data transpo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/projects/art/</guid>
-      <description>Project Name: Art
+      <description>Project Name: ART
 [Github] [A demo application] Abstract
 Packet losses significantly impact the user experience of wide-area applications such as content distribution and remote procedure call (RPC) based services. However, our production network measurement studies show that the legacy loss recovery is far from satisfactory due to the wide-area loss characteristics (i.e., dynamics and burstiness) in the wild. In this paper, we propose a sender-side Adaptive ReTransmission scheme, ART, which minimizes the recovery time of lost packets with minimal redundancy cost.</description>
     </item>
