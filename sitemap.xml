@@ -16,8 +16,6 @@
   </url><url>
     <loc>https://www.litonglab.com/about/</loc>
   </url><url>
-    <loc>https://www.litonglab.com/</loc>
-  </url><url>
     <loc>https://www.litonglab.com/news/</loc>
   </url><url>
     <loc>https://www.litonglab.com/people/</loc>
@@ -27,5 +25,7 @@
     <loc>https://www.litonglab.com/series/</loc>
   </url><url>
     <loc>https://www.litonglab.com/tags/</loc>
+  </url><url>
+    <loc>https://www.litonglab.com/</loc>
   </url>
 </urlset>

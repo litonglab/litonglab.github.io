@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LitongLab</title>
+    <title>Welcome to LitongLab on LitongLab</title>
     <link>https://www.litonglab.com/</link>
-    <description>Recent content on LitongLab</description>
+    <description>Recent content in Welcome to LitongLab on LitongLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.litonglab.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -87,8 +87,7 @@ Wireless networks: Wireless networks are networks that use wireless signals for 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/people/</guid>
-      <description>Header Dr. Tong Li
-Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua UniversityPhD Students DuLing Xu (PhD student since 2022) Master Students Jiuxiang Zhu (master student since 2024) Zegang Sun (master student since 2023) Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022) Xinyu Ma (master student since 2022) Shuaipeng Zhu (master student since 2022) Shuoru Yuan (master student since 2022) Undergraduate Students Jiahe Zhang (undergraduate student since 2022) Zimeng Wang (undergraduate student since 2022) Zijia Wang (undergraduate student since 2022) Peiyu Zhao (undergraduate student since 2022) Yaoping Luo (undergraduate student since 2022) Jingjing Li (undergraduate student since 2022) Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Jinxiang Zhao (undergraduate student since 2021) Haohan Liao (undergraduate student since 2021) Guanjie Tu (undergraduate student since 2020) Siyuan Cao (undergraduate student since 2020) Yijin Zhu (undergraduate student since 2020) Yu Sun (undergraduate student since 2020) Alumni Shuailong Yang (undergraduate student since 2019) Yiming Gao (undergraduate student since 2019) Liang Ma (undergraduate student since 2019) Annual Group Photo @ 2023 Annual Group Photo @ 2024 </description>
+      <description>Header Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua University. Homepage: http://iir.ruc.edu.cn/~litong PhD Students DuLing Xu (PhD student since 2022) Master Students Baoli Liu (master student since 2024) Jiuxiang Zhu (master student since 2024) Zegang Sun (master student since 2023) Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022) Shuoru Yuan (master student since 2022) Alumni Shuaipeng Zhu (2022-2024, Master Degree) Xinyu Ma (2022-2024, Master Degree) Undergraduate Students Xiaoyao Feng (undergraduate student since 2022) Jingyue Zhou (undergraduate student since 2022) Jiahe Zhang (undergraduate student since 2022) Zimeng Wang (undergraduate student since 2022) Zijia Wang (undergraduate student since 2022) Peiyu Zhao (undergraduate student since 2022) Yaoping Luo (undergraduate student since 2022) Jingjing Li (undergraduate student since 2022) Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Haohan Liao (undergraduate student since 2021) Guanjie Tu (undergraduate student since 2020) Siyuan Cao (undergraduate student since 2020) Yijin Zhu (undergraduate student since 2020) Annual Group Photo @ 2024 Annual Group Photo @ 2023 </description>
     </item>
     
     <item>
@@ -97,9 +96,8 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/publications/</guid>
-      <description>Conference Papers Shuaipeng Zhu, Tong Li*, Xinyu Ma, Yinfeng Zhu, Taotao Zhang, Senzhen Liu, Haiyang Wang, Ke Xu:PolyCC: Poly-Algorithmic Congestion Control.ACM SIGCOMM, pp. 1129-1131, 2023.09.10. [paper][poster]
-Xu Yan, Tong Li*, Bo Wu, Cheng Luo, Fuyu Wang, Haiyang Wang, Ke Xu: TOO: Accelerating Loss Recovery by Taming On-Off Traffic Patterns.ACM SIGCOMM, pp. 1147-1149, 2023.09.10. [paper][poster]
-Bo Wu, Tong Li*, Cheng Luo, Xu Yan, Fuyu Wang, Changkui Ouyang, Lingfeng Guo, Haiyang Wang, Ke Xu: Reducing First-Frame Delay of Live Streaming by Simultaneously Initializing Window and Rate.</description>
+      <description>Conference Papers Bo Wu, Tong Li, Cheng Luo, Xu Yan, Fuyu Wang, Changkui Ouyang, Lingfeng Guo, Haiyang Wang, Ke Xu: Reducing First-Frame Delay of Live Streaming by Simultaneously Initializing Window and Rate. IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), pp. 1-11, 2024.07.23. [to appear]
+Hanlin Huang, Ke Xu, Xinle Du, Yiyang Shao, Jie Li, Xiangyu Gao, Tong Li: Performant TCP over Wi-Fi Direct. IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp.</description>
     </item>
     
   </channel>
