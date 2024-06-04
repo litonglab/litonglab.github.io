@@ -1,0 +1,9 @@
+[submodule "Desktop/glee-lab/etcd"]
+	path = Desktop/glee-lab/etcd
+	url = https://github.com/etcd-io/etcd.git
+[submodule "Desktop/glee-lab/glee-etcd"]
+	path = Desktop/glee-lab/glee-etcd
+	url = https://github.com/example/glee-etcd.git
+[submodule "Desktop/glee-lab/go-ycsb-modified"]
+	path = Desktop/glee-lab/go-ycsb-modified
+	url = https://github.com/example/go-ycsb-modified.git
