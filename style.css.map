@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/duling/Desktop/code/Homepage-configuration-file",
+	"sourceRoot": "/Users/litong/workspace/codehub/Homepage-configuration-file",
 	"sources": [
 		"assets/scss/core.scss",
 		"assets/scss/purecss/_base.scss",

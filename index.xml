@@ -13,9 +13,7 @@
       
       <guid>https://www.litonglab.com/projects/tack/</guid>
       <description>Project Name: TACK
-[Github] 
-[Video and Slides] 
-Abstract
+[Github] [Video and Slides] Abstract
 The shared nature of the wireless medium induces contention between data transport and backward signaling, such as acknowledgement. The current way of TCP acknowledgment induces control overhead which is counter-productive for TCP performance especially in wireless local area network (WLAN) scenarios. In this paper, we present a new acknowledgement called TACK (&amp;ldquo;Tame ACK&amp;rdquo;), as well as its TCP implementation TCP-TACK. TCP-TACK works on top of commodity WLAN, delivering high wireless transport goodput with minimal control overhead in the form of ACKs, without any hardware modification.</description>
     </item>
     
@@ -26,9 +24,7 @@ The shared nature of the wireless medium induces contention between data transpo
       
       <guid>https://www.litonglab.com/projects/art/</guid>
       <description>Project Name: ART
-[Github] 
-[A demo application] 
-Abstract
+[Github] [A demo application] Abstract
 Packet losses significantly impact the user experience of wide-area applications such as content distribution and remote procedure call (RPC) based services. However, our production network measurement studies show that the legacy loss recovery is far from satisfactory due to the wide-area loss characteristics (i.e., dynamics and burstiness) in the wild. In this paper, we propose a sender-side Adaptive ReTransmission scheme, ART, which minimizes the recovery time of lost packets with minimal redundancy cost.</description>
     </item>
     
@@ -39,9 +35,7 @@ Packet losses significantly impact the user experience of wide-area applications
       
       <guid>https://www.litonglab.com/projects/blender/</guid>
       <description>Project Name: Blender
-[Github] 
-[A demo application] 
-Abstract
+[Github] [A demo application] Abstract
 In the widely used Bluetooth Low-Energy (BLE) neighbor discovery, the parameter configuration of neighbor discovery directly decides the results of the trade-off between discovery latency and power consumption. Therefore, it requires evaluating whether any given parameter configuration meets the demands. The existing solutions, however, are far from satisfactory due to unsolved issues.
 Blender, a simulation framework that produces a determined and full probabilistic distribution of discovery latency for a given parameter configuration.</description>
     </item>
@@ -53,10 +47,10 @@ Blender, a simulation framework that produces a determined and full probabilisti
       
       <guid>https://www.litonglab.com/projects/find/</guid>
       <description>Project Name: FiND
-[Github] 
-Abstract
+[Github] Abstract
 FiND is a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.
-Reference</description>
+Reference
+Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints.</description>
     </item>
     
     <item>
@@ -66,7 +60,7 @@ Reference</description>
       
       <guid>https://www.litonglab.com/about/</guid>
       <description>LitongLab Introduction Basic introduction LitongLab is a research lab led by Professor Li Tong at Renmin University of China. Our main research areas include wireless networks, wired networks, and data center networks.
- Wireless networks: Wireless networks are networks that use wireless signals for communication. They are convenient, as they allow access to the network from any location without the need for cables. Wired networks: Wired networks are networks that use cables to connect devices.</description>
+Wireless networks: Wireless networks are networks that use wireless signals for communication. They are convenient, as they allow access to the network from any location without the need for cables. Wired networks: Wired networks are networks that use cables to connect devices.</description>
     </item>
     
     <item>
@@ -75,11 +69,12 @@ Reference</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/news/</guid>
-      <description>News   2024.10.05 Our paper is accepted by IEEE/ACM TON.
-  2024.09.23	Professor Li was awarded as the ACM SIGCOMM China Rising Star Award (新星奖). (Ranking first)
-  2024.09.10	Our paper is accepted by IEEE S&amp;amp;P 2025. (Acceptance rate 14.3%)
-  2024.07.24 Our paper is accepted by USENIX NSDI 2025. The first NSDI paper in the history of Renmin University of China.
-  2024.07.16 Our paper is accepted by ACM Multimedia (MM) 2024 .</description>
+      <description>News 2024.10.05 Our paper is accepted by IEEE/ACM TON.
+2024.09.23	Professor Li was awarded as the ACM SIGCOMM China Rising Star Award (新星奖). (Ranking first)
+2024.09.10	Our paper is accepted by IEEE S&amp;amp;P 2025. (Acceptance rate 14.3%)
+2024.07.24 Our paper is accepted by USENIX NSDI 2025. The first NSDI paper in the history of Renmin University of China.
+2024.07.16 Our paper is accepted by ACM Multimedia (MM) 2024 .
+2024.07.11 Our paper is accepted by IEEE/ACM TON.</description>
     </item>
     
     <item>
@@ -88,7 +83,7 @@ Reference</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/people/</guid>
-      <description>Header   Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua University. Homepage: http://iir.ruc.edu.cn/~litong  PhD Students  Duling Xu (PhD student since 2022)  Master Students  Meng Jiang (master student since 2024) Baoli Liu (master student since 2024) Jiuxiang Zhu (master student since 2024) Zegang Sun (master student since 2023) Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022)  Alumni  Shuaipeng Zhu (2022-2024, Master Degree) Xinyu Ma (2022-2024, Master Degree) Guanjie Tu (2020-2024, Undergraduate student) Siyuan Cao (2020-2024, Undergraduate student) Yijin Zhu (2020-2024, Undergraduate student)  Undergraduate Students  Xiaoyao Feng (undergraduate student since 2022) Jingyue Zhou (undergraduate student since 2022) Jiahe Zhang (undergraduate student since 2022) Zimeng Wang (undergraduate student since 2022) Zijia Wang (undergraduate student since 2022) Peiyu Zhao (undergraduate student since 2022) Yaoping Luo (undergraduate student since 2022) Jingjing Li (undergraduate student since 2022) Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Haohan Liao (undergraduate student since 2021)  Annual Group Photo @ 2024 Autumn  Annual Group Photo @ 2024 Spring  Annual Group Photo @ 2023 Autumn  Annual Group Photo @ 2023 Spring  </description>
+      <description>Header Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua University. Homepage: http://iir.ruc.edu.cn/~litong PhD Students Duling Xu (PhD student since 2022) Master Students Meng Jiang (master student since 2024) Baoli Liu (master student since 2024) Jiuxiang Zhu (master student since 2024) Zegang Sun (master student since 2023) Xu Yan (master student since 2023) Wei Liu (master student since 2022) Shangwen Jiang (master student since 2022) Alumni Shuaipeng Zhu (2022-2024, Master Degree) Xinyu Ma (2022-2024, Master Degree) Guanjie Tu (2020-2024, Undergraduate student) Siyuan Cao (2020-2024, Undergraduate student) Yijin Zhu (2020-2024, Undergraduate student) Undergraduate Students Xiaoyao Feng (undergraduate student since 2022) Jingyue Zhou (undergraduate student since 2022) Jiahe Zhang (undergraduate student since 2022) Zimeng Wang (undergraduate student since 2022) Zijia Wang (undergraduate student since 2022) Peiyu Zhao (undergraduate student since 2022) Yaoping Luo (undergraduate student since 2022) Jingjing Li (undergraduate student since 2022) Bowen Hu (undergraduate student since 2021) Zhaoqi Yang (undergraduate student since 2021) Jingkun Cao (undergraduate student since 2021) Yilin Yang (undergraduate student since 2021) Daijun Jiang (undergraduate student since 2021) Xiongwen Guo (undergraduate student since 2021) Zhongqi Tang (undergraduate student since 2021) Haoyue Li (undergraduate student since 2021) Haohan Liao (undergraduate student since 2021) Annual Group Photo @ 2024 Autumn Annual Group Photo @ 2024 Spring Annual Group Photo @ 2023 Autumn Annual Group Photo @ 2023 Spring </description>
     </item>
     
     <item>
@@ -97,8 +92,8 @@ Reference</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/publications/</guid>
-      <description>Conference Papers   Bo Wu, Tong Li, Cheng Luo, Xu Yan, Fuyu Wang, Changkui Ouyang, Lingfeng Guo, Haiyang Wang, Ke Xu: Reducing First-Frame Delay of Live Streaming by Simultaneously Initializing Window and Rate. IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), pp. 1-11, 2024.07.23.[paper]
-  Hanlin Huang, Ke Xu, Xinle Du, Yiyang Shao, Jie Li, Xiangyu Gao, Tong Li: Performant TCP over Wi-Fi Direct. IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp.</description>
+      <description>Conference Papers Bo Wu, Tong Li, Cheng Luo, Xu Yan, Fuyu Wang, Changkui Ouyang, Lingfeng Guo, Haiyang Wang, Ke Xu: Reducing First-Frame Delay of Live Streaming by Simultaneously Initializing Window and Rate. IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), pp. 1-11, 2024.07.23.[paper]
+Hanlin Huang, Ke Xu, Xinle Du, Yiyang Shao, Jie Li, Xiangyu Gao, Tong Li: Performant TCP over Wi-Fi Direct. IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp.</description>
     </item>
     
   </channel>
