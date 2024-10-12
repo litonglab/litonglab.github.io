@@ -97,9 +97,9 @@ Reference</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/publications/</guid>
-      <description>Conference Papers   Hanlin Huang, Ke Xu, Tong Li*, Zhuotao Liu, Xinle Du, Xiangyu Gao: DiffECN: Differential ECN Marking for Datacenter Networks. IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2024.10.05. [to appear]
-  Guangmeng Zhou, Xiongwen Guo, Zhuotao Liu, Tong Li, Qi Li, Ke Xu: TrafficFormer: An Efficient Pre-trained Model for Traffic Data. IEEE Symposium on Security and Privacy (IEEE S&amp;amp;P), pp. 1-15, 2024.9.10. [to appear]
-  Xinle Du, Tong Li*, Guangmeng Zhou, Zhuotao Liu, Hanlin Huang, Xiangyu Gao, Mowei Wang, Kun Tan, Ke Xu: PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters.</description>
+      <description>Conference Papers   Hanlin Huang, Ke Xu, Tong Li*, Zhuotao Liu, Xinle Du, Xiangyu Gao:DiffECN: Differential ECN Marking for Datacenter Networks.IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2024.10.05. [to appear]
+  Guangmeng Zhou, Xiongwen Guo, Zhuotao Liu, Tong Li, Qi Li, Ke Xu:TrafficFormer: An Efficient Pre-trained Model for Traffic Data.IEEE Symposium on Security and Privacy (IEEE S&amp;amp;P), pp. 1-15, 2024.9.10. [to appear]
+  Xinle Du, Tong Li*, Guangmeng Zhou, Zhuotao Liu, Hanlin Huang, Xiangyu Gao, Mowei Wang, Kun Tan, Ke Xu:PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters.</description>
     </item>
     
   </channel>
