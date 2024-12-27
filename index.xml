@@ -75,11 +75,12 @@ Reference</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/news/</guid>
-      <description>News   2024.10.05 Our paper is accepted by IEEE/ACM TON.
+      <description>News   2024.12.06	Two of our papers are accepted by IEEE INFOCOM 2025.
+  2024.11.27	Our paper is accepted by IEEE ICDE 2025.
+  2024.11.10	I was invited to give a talk in 中国网络大会（ChinaNet）.
+  2024.10.05 Our paper is accepted by IEEE/ACM TON.
   2024.09.23	Professor Li was awarded as the ACM SIGCOMM China Rising Star Award (新星奖). (Ranking first)
-  2024.09.10	Our paper is accepted by IEEE S&amp;amp;P 2025. (Acceptance rate 14.3%)
-  2024.07.24 Our paper is accepted by USENIX NSDI 2025. The first NSDI paper in the history of Renmin University of China.
-  2024.07.16 Our paper is accepted by ACM Multimedia (MM) 2024 .</description>
+  2024.09.10	Our paper is accepted by IEEE S&amp;amp;P 2025.</description>
     </item>
     
     <item>
@@ -97,9 +98,8 @@ Reference</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/publications/</guid>
-      <description>Conference Papers   Hanlin Huang, Ke Xu, Tong Li*, Zhuotao Liu, Xinle Du, Xiangyu Gao:DiffECN: Differential ECN Marking for Datacenter Networks.IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2024.10.05. [to appear]
-  Guangmeng Zhou, Xiongwen Guo, Zhuotao Liu, Tong Li, Qi Li, Ke Xu:TrafficFormer: An Efficient Pre-trained Model for Traffic Data.IEEE Symposium on Security and Privacy (IEEE S&amp;amp;P), pp. 1-15, 2024.9.10. [to appear]
-  Xinle Du, Tong Li*, Guangmeng Zhou, Zhuotao Liu, Hanlin Huang, Xiangyu Gao, Mowei Wang, Kun Tan, Ke Xu:PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters.</description>
+      <description>Conference Papers   Duling Xu, Dafang Zhang, Tong Li*, Yunpeng Chai, Zegang Sun, Weiming Li, Yangfan Liu, Qipeng Wang, Jiaqi Liang, Yang Ren, Wei Lu, Xiaoyong Du:GeoLM: Performance-oriented Leader Management for Geo-Distributed Consensus Protocol. IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-10, 2024.12.06. [to appear]
+  Qiyu Zhuang, Xinyue Shi, Wei Lu, Yuxing Chen, Zhanhao Zhao, Tong Li, Anqun Pan, and Xiaoyong Du: GeoTP: Latency-aware Geo-Distributed TransactionProcessing in Database Middlewares.</description>
     </item>
     
   </channel>
