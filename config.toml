@@ -1,0 +1,64 @@
+baseURL = 'https://www.litonglab.com'
+languageCode = 'en-us'
+title = 'LitongLab'
+theme = "hugo-theme-monochrome"
+defaultContentLanguage = "en"
+enableEmoji = true
+paginate = 5
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[param]
+  [param.syntax_highlight]
+  lib = "builtin" # "builtin" | "prism.js" (default: "builtin")
+    [param.syntax_highlight.builtin]
+    enable_code_copy = true # default: true
+
+[params]
+enable_site_search = true # default: false
+enable_math = true # default: false
+enable_zooming_js = false # default: true
+author = "kaiiiz" # default: no author `meta` tag
+enable_open_graph = false # default: true
+enable_twitter_cards = false # default: true
+enable_toc = true # default: true
+enable_collapsible_toc = true # default: false
+enable_collapsible_changelogs = false # default: false
+  [params.list_layout]
+  enable_group_by_year = true # default: true
+  enable_show_date = true # default: true
+  enable_pagination = false # default: false
+
+[[menu.navbar]]
+  identifier = "Home"
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.navbar]]
+  identifier = "People"
+  name = "People"
+  url = "/people/"
+  weight = 2
+[[menu.navbar]]
+  identifier = "Publications"
+  name = "Publications"
+  url = "/publications/"
+  weight = 3
+[[menu.navbar]]
+  identifier = "Projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 4
+[[menu.navbar]]
+  identifier = "News"
+  name = "News"
+  url = "/News/"
+  weight = 5
+
+
