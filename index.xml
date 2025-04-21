@@ -60,6 +60,17 @@ Reference</description>
     </item>
     
     <item>
+      <title>AutoRec</title>
+      <link>https://www.litonglab.com/projects/autorec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.litonglab.com/projects/autorec/</guid>
+      <description>Project Name: AutoRec
+Abstract
+Due to the limited permissions for upgrading dual-side (i.e., server-side and client-side) loss tolerance schemes from the perspective of CDN vendors in a multi-supplier market, modern large-scale live streaming services are still using the automatic-repeat-request (ARQ) based paradigm for loss recovery, which only requires server-side modifications. In this paper, we first conduct a large-scale measurement study with up to 50 million live streams. We find that loss shows dynamics and live streaming contains frequent on-off mode switching in the wild.</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://www.litonglab.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

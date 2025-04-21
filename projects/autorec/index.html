@@ -18,7 +18,7 @@
     <meta charset="utf-8">
     <link rel="shortcut icon" href='/favicon.ico' type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>ART - LitongLab</title>
+    <title>AutoRec - LitongLab</title>
 
     
 
@@ -151,26 +151,21 @@
 <article class="line-numbers">
     
     
-    <p><strong>Project Name</strong>: ART</p>
-<p><a href="https://github.com/litonglab/quic-art"> [Github] </a></p>
-<p><a href="https://github.com/litonglab/quic-art/tree/main/slides"> [A demo application] </a></p>
+    <p><strong>Project Name</strong>: AutoRec</p>
 <p><strong>Abstract</strong></p>
-<p>Packet losses significantly impact the user experience of wide-area applications such as content distribution and remote procedure call (RPC) based services. However, our production network measurement studies show that the legacy loss recovery is far from satisfactory due to the wide-area loss characteristics (i.e., dynamics and burstiness) in the wild. In this paper, we propose a sender-side Adaptive ReTransmission scheme, ART, which minimizes the recovery time of lost packets with minimal redundancy cost. Distinguishing itself from forward- error-correction (FEC), which preemptively sends redundant data packets to prevent loss, ART functions as an automatic- repeat-request (ARQ) scheme. It applies redundancy specifically to lost packets instead of unlost packets, thereby addressing the characteristic patterns of wide-area losses in real-world scenarios. We implement ART upon QUIC protocol and evaluate it via both trace-driven emulation and real-world deployment. The results show that ART reduces up to 34% of flow completion time (FCT) for delay-sensitive transmissions, improves up to 28% of goodput for throughput-intensive transmissions, and saves up to 90% of redundancy cost.</p>
+<p>Due to the limited permissions for upgrading dual-side (i.e., server-side and client-side) loss tolerance schemes from the perspective of CDN vendors in a multi-supplier market, modern large-scale live streaming services are still using the automatic-repeat-request (ARQ) based paradigm for loss recovery, which only requires server-side modifications. In this paper, we first conduct a large-scale measurement study with up to 50 million live streams. We find that loss shows dynamics and live streaming contains frequent on-off mode switching in the wild. We further find that the recovery latency, enlarged by the ubiquitous retransmission loss, is a critical factor affecting live streaming&rsquo;s client-side QoE (e.g., video freezing). We then propose an enhanced recovery mechanism called AutoRec, which can transform the disadvantages of on-off mode switching into an advantage for reducing loss recovery latency without any modifications on the client side. AutoRec also adopts an online learning-based policy to fit the dynamics of loss, balancing the tradeoff between the recovery latency and the incurred overhead. We implement AutoRec upon QUIC and evaluate it via both testbed and real-world commercial services deployments. The experimental results demonstrate the practicability and profitability of AutoRec, in which the average 95th-percentile times and duration of client-side video freezing can be lowered by 11.4% and 5.2%, respectively.</p>
 <p><strong>Reference</strong></p>
 <ul>
 <li>
-<p>Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jinkun Cao, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Ke Xu. ART: Adaptive Retransmission for Wide-Area Loss Recovery in the Wild. IEEE International Conference on Network Protocols (ICNP), pp.1-11, 2023.10.10.</p>
+<p>Xu Yan, Tong Li*, Bo Wu, Cheng Luo, Fuyu Wang, Haiyang Wang, Ke Xu:TOO: Accelerating Loss Recovery by Taming On-Off Traffic Patterns.ACM SIGCOMM, pp. 1147-1149, 2023.09.10.</p>
 </li>
 <li>
-<p>Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jingkun Cao, Duling Xu, Zhaoqi Yang, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Kezhi Wang, Ke Xu:Accelerating Loss Recovery for Content Delivery Network.IEEE Transactions on Computers (IEEE TC), pp. 1-14, 2025.</p>
-</li>
-<li>
-<p>Tong Li, Yukuan Ding, Jiaxin Liang, Kai Zheng, Xu Zhang, Tian Pan, Dan Wang, Ke Xu, Kezhi Wang, Ke Xu:Toward Optimal Broadcast Mode in Offline Finding Network.IEEE Transactions on Mobile Computing (IEEE TMC), pp. 1-16, 2025.[<a href="http://iir.ruc.edu.cn/~litong/papers/Toward%20Optimal%20Broadcast%20Mode%20in%20Offline%20Finding%20Network-TMC-full.pdf">paper</a>]</p>
+<p>Bo Wu, Tong Li*, Cheng Luo, Xu Yan, FuYu Wang, Xinle Du, Ke Xu:Toward Timeliness-Enhanced Loss Recovery for Large-Scale Live Streaming.ACM Multimedia (ACM MM), pp. 1-9, 2024.10.28. </p>
 </li>
 </ul>
-<figure><img src="/images/project_art.png"
-         alt="Key modules of ART"/><figcaption>
-            <p>Key modules of ART</p>
+<figure><img src="/images/project_autorec.png"
+         alt="Key modules of AutoRec"/><figcaption>
+            <p>Key modules of AutoRec</p>
         </figcaption>
 </figure>
 
