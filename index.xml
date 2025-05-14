@@ -86,11 +86,12 @@ Due to the limited permissions for upgrading dual-side (i.e., server-side and cl
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/news/</guid>
-      <description>News   2025.03.29	Our paper is accepted by IEEE TC.
-  2025.03.20 ACM SIGCOMM 2025 Workshop [Call for paper]: Submission deadline May 8th, 2025 [The 3rd Workshop on Emerging Multimedia Systems (EMS)]
-  2025.02.18 Our paper is accepted by IEEE TMC.
-  2025.02.12	Two of our papers are accepted by IEEE INFOCOM Demo 2025.
-  2024.12.06	Two of our papers are accepted by IEEE INFOCOM 2025.</description>
+      <description>News   2025.05.13 Our team member Liu Wei has been awarded the title of &amp;lsquo;Outstanding Graduate of Beijing City&amp;rsquo;.
+  2025.04.30	Our paper is accepted by IEEE/ACM IWQoS 2025.
+  2025.04.26	Our paper is accepted by ACM SIGCOMM 2025.
+  2025.04.20	Our paper is accepted by IEEE/ACM TON.
+  2025.03.29	Our paper is accepted by IEEE TC.
+  2025.03.29	Our paper is accepted by IEEE TC.</description>
     </item>
     
     <item>
@@ -108,9 +109,8 @@ Due to the limited permissions for upgrading dual-side (i.e., server-side and cl
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/publications/</guid>
-      <description>Conference Papers   Jingkun Cao, Tong Li*, Bowen Hu, Duling Xu, Kezhi Wang, Bo Wu:Reducing Bandwidth Demand for Video Streaming to Kbps.IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-2, 2025.5.19.[paper]
-  Rui Kang, Mengfei Zhu, Duling Xu, Tong Li*:A Multi-Provider Service Function Chain Paradigm for Flexible Composition.IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-2, 2025.5.19.[paper]
-  Duling Xu, Dafang Zhang, Tong Li*, Yunpeng Chai, Zegang Sun, Weiming Li, Yangfan Liu, Qipeng Wang, Jiaqi Liang, Yang Ren, Wei Lu, Xiaoyong Du:GeoLM: Performance-oriented Leader Management for Geo-Distributed Consensus Protocol.</description>
+      <description>Conference Papers   Zengxie Ma, Yao Xin, Ying Chen, Zhuochen Fan, Tong Li*, Ning Hu, Qing Liao, Yi Zhao, Feng Zhang: WisePIFinder: Efficient and Accurate Detection of Persistent and Infrequent Flows. IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-10, 2025. [to appear]
+  Yinchao Zhang, Su Yao, Yong Feng, Kang Chen, Tong Li, Zhuotao Liu, Yi Zhao, Lexuan Zhang, Xiangyu Gao, Feng Xiong, Qi Li, Ke Xu:Pegasus: A Universal Framework for Scalable Deep Learning Inference on the Dataplane.</description>
     </item>
     
   </channel>
