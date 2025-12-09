@@ -70,5 +70,17 @@ Abstract
 Due to the limited permissions for upgrading dual-side (i.e., server-side and client-side) loss tolerance schemes from the perspective of CDN vendors in a multi-supplier market, modern large-scale live streaming services are still using the automatic-repeat-request (ARQ) based paradigm for loss recovery, which only requires server-side modifications. In this paper, we first conduct a large-scale measurement study with up to 50 million live streams. We find that loss shows dynamics and live streaming contains frequent on-off mode switching in the wild.</description>
     </item>
     
+    <item>
+      <title>Transhub</title>
+      <link>https://www.litonglab.com/projects/transhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.litonglab.com/projects/transhub/</guid>
+      <description>Project Name: Transhub
+Abstract
+Transhub：中国人民大学“一人一栈”训练平台。该平台是一个传输协议的训练平台，旨在通过实践加深学生对计算机网络、传输控制协议的理解。平台包括完整的用户模块、日志管理、管理员模块和任务队列等功能，用户可提交自己设计的算法用于评测。具体来说，平台测评核心模块用户态协议框架Transhub基于UDP协议进行实现，提供传输协议基本的功能模块，如序号、包类型、确认机制等，并提供如发送、接收等预制的接口API。 用户需要在该框架上，修改controller.cc代码中的内容，实现一个拥塞控制算法，尽可能地提高网络性能。平台通过模拟不同的网络环境， 并针对丢包、时延和吞吐量三个维度进行综合评分，对用户提供的拥塞控制算法进行评估。
+Transhub: The &amp;ldquo;One Person, One Stack&amp;rdquo; Training Platform at Renmin University of China. This platform serves as a training environment for transmission protocols, designed to deepen students&#39; understanding of computer networks and transmission control protocols through hands‑on practice. It includes comprehensive functional modules such as user management, log administration, administrator controls, and task queues, allowing users to submit their own designed algorithms for evaluation.</description>
+    </item>
+    
   </channel>
 </rss>

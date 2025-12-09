@@ -71,6 +71,18 @@ Due to the limited permissions for upgrading dual-side (i.e., server-side and cl
     </item>
     
     <item>
+      <title>Transhub</title>
+      <link>https://www.litonglab.com/projects/transhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.litonglab.com/projects/transhub/</guid>
+      <description>Project Name: Transhub
+Abstract
+Transhub：中国人民大学“一人一栈”训练平台。该平台是一个传输协议的训练平台，旨在通过实践加深学生对计算机网络、传输控制协议的理解。平台包括完整的用户模块、日志管理、管理员模块和任务队列等功能，用户可提交自己设计的算法用于评测。具体来说，平台测评核心模块用户态协议框架Transhub基于UDP协议进行实现，提供传输协议基本的功能模块，如序号、包类型、确认机制等，并提供如发送、接收等预制的接口API。 用户需要在该框架上，修改controller.cc代码中的内容，实现一个拥塞控制算法，尽可能地提高网络性能。平台通过模拟不同的网络环境， 并针对丢包、时延和吞吐量三个维度进行综合评分，对用户提供的拥塞控制算法进行评估。
+Transhub: The &amp;ldquo;One Person, One Stack&amp;rdquo; Training Platform at Renmin University of China. This platform serves as a training environment for transmission protocols, designed to deepen students&#39; understanding of computer networks and transmission control protocols through hands‑on practice. It includes comprehensive functional modules such as user management, log administration, administrator controls, and task queues, allowing users to submit their own designed algorithms for evaluation.</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://www.litonglab.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -86,14 +98,14 @@ Due to the limited permissions for upgrading dual-side (i.e., server-side and cl
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/news/</guid>
-      <description>News   2025.09.13	Our paper is selected as the Outstanding Paper Award by CCF ChinaNet 2025.
+      <description>News   2025.11.24	Our paper is accepted by ACM SIGMOD 2026.
+  2025.11.23	Our paper is accepted by IEEE TON.
+  2025.09.13	Our paper is selected as the Outstanding Paper Award by CCF ChinaNet 2025.
   2025.09.14	第三届CCF中国网络大会（ChinaNet-2025）-智能体与未来网络融合创新分论坛，将于2025年9月14日14:00-17:30，在沈阳香格里拉大酒店2F宴会2召开.
   2025.07.14	Our paper is accepted by USENIX NSDI 2026.
   2025.07.10	计算机网络教学改革项目获评教育部&amp;quot;101计划&amp;quot;优秀教材试点应用项目.
-  2025.06.20	《广域确定性网络传输技术综述》论文视频入选了《软件学报》高传播力视频Top10 video
-  2025.05.13 Our team member Liu Wei has been awarded the title of &amp;lsquo;北京市优秀毕业生&amp;rsquo;.
-  2025.04.30	Our paper is accepted by IEEE/ACM IWQoS 2025.
-  2025.04.26	Our paper is accepted by ACM SIGCOMM 2025.</description>
+  2025.06.20	《广域确定性网络传输技术综述》论文视频入选了《软件学报》高传播力视频Top10（10/42） video
+  2025.05.13 Our team member Liu Wei has been awarded the title of &amp;lsquo;北京市优秀毕业生&amp;rsquo;.</description>
     </item>
     
     <item>
@@ -111,7 +123,7 @@ Due to the limited permissions for upgrading dual-side (i.e., server-side and cl
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.litonglab.com/publications/</guid>
-      <description>Conference Papers   Duling Xu, Tong Li, Zegang Sun, Zheng Chen,Weixing Zhou, Yanfeng Zhang, Wei Lu, Xiaoyong Du,: Performant Synchronization in Geo-Distributed Databases. ACM SIGMOD [paper]
+      <description>Conference Papers   Duling Xu, Tong Li*, Zegang Sun, Zheng Chen, Weixing Zhou, Yanfeng Zhang, Wei Lu, Xiaoyong Du: Performant Synchronization in Geo-Distributed Databases. ACM Conference on Management of Data (ACM SIGMOD), pp. 1-14, 2026.5.31. [to appear]
   Xu Yan, Tong Li*, Bo Wu, Cheng Luo, Jiuxiang Zhu, Laizhong Cui: When BBR Meets Live Streaming. (CCF ChinaNet), pp. 1-15, 2025.9.12. [to appear] [Outstanding Paper Award!]
   Xiangyu Gao, Tong Li, Yinchao Zhang, Ziqiang Wang, Xiangsheng Zeng, Su Yao, Ke Xu: FENIX: Enabling In-Network DNN Inference with FPGA-Enhanced Programmable Switches.</description>
     </item>
