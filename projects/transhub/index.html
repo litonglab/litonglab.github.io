@@ -30,7 +30,7 @@
 
     
 
-    <link rel="stylesheet" href="/style.min.5297c96c59a52afaa5bcda4a6cedf3813081f64025c209b25b2ee6d0c8f74d462b625ad3404a92a14d7a51b4ec0a420337ae70f426fa4bce2d5f7459a3ca7274.css" integrity="sha512-UpfJbFmlKvqlvNpKbO3zgTCB9kAlwgmyWy7m0Mj3TUYrYlrTQEqSoU16UbTsCkIDN65w9Cb6S84tX3RZo8pydA==">
+    <link rel="stylesheet" href="/style.min.dca37f8c28dcb8b0441f0106666975c291b3e278da6a242aa5c7b2738b5e94864fe81a9676fea3e879c2646a776bae87dab4d25382626f0fc4c9341ae353393f.css" integrity="sha512-3KN/jCjcuLBEHwEGZml1wpGz4njaaiQqpceyc4telIZP6BqWdv6j6HnCZGp3a66H2rTSU4Jibw/EyTQa41M5Pw==">
 
 
 
@@ -155,8 +155,26 @@
 <p><strong>Abstract</strong></p>
 <p>Transhub：中国人民大学“一人一栈”训练平台。该平台是一个传输协议的训练平台，旨在通过实践加深学生对计算机网络、传输控制协议的理解。平台包括完整的用户模块、日志管理、管理员模块和任务队列等功能，用户可提交自己设计的算法用于评测。具体来说，平台测评核心模块用户态协议框架Transhub基于UDP协议进行实现，提供传输协议基本的功能模块，如序号、包类型、确认机制等，并提供如发送、接收等预制的接口API。 用户需要在该框架上，修改controller.cc代码中的内容，实现一个拥塞控制算法，尽可能地提高网络性能。平台通过模拟不同的网络环境， 并针对丢包、时延和吞吐量三个维度进行综合评分，对用户提供的拥塞控制算法进行评估。</p>
 <p>Transhub: The &ldquo;One Person, One Stack&rdquo; Training Platform at Renmin University of China. This platform serves as a training environment for transmission protocols, designed to deepen students' understanding of computer networks and transmission control protocols through hands‑on practice. It includes comprehensive functional modules such as user management, log administration, administrator controls, and task queues, allowing users to submit their own designed algorithms for evaluation. Specifically, the core evaluation module of the platform—the user‑space protocol framework Transhub—is implemented based on the UDP protocol. It provides fundamental functional components of a transmission protocol, including sequence numbers, packet types, acknowledgment mechanisms, and pre‑defined interface APIs such as sending and receiving. Users are required to modify the code in controller.cc on this framework to implement a congestion control algorithm that strives to maximize network performance. The platform evaluates the submitted congestion control algorithms by simulating diverse network environments and scoring them comprehensively based on three dimensions: packet loss, latency, and throughput.</p>
+<p><strong>Access</strong></p>
+<ul>
+<li>
+<p><strong>外网访问</strong>：<br>
+<a href="https://transhub.litonglab.com">https://transhub.litonglab.com</a></p>
+</li>
+<li>
+<p><strong>内网访问（校内网络）</strong>：<br>
+<a href="http://net.ruc.edu.cn">http://net.ruc.edu.cn</a></p>
+</li>
+</ul>
 <p><strong>Reference</strong></p>
-<p><a href="https://github.com/keithw/sourdough/tree/master"> [Github] </a></p>
+<ul>
+<li>
+<p>Github前端 <a href="https://github.com/litonglab/transhub_frontend">https://github.com/litonglab/transhub_frontend</a></p>
+</li>
+<li>
+<p>Github后端 <a href="https://github.com/litonglab/transhub_backend">https://github.com/litonglab/transhub_backend</a></p>
+</li>
+</ul>
 <p><figure><img src="/images/project_transhub01.png"/>
 </figure>
 
