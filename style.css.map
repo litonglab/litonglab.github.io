@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "C:/Users/17588/Desktop/page1/Homepage-configuration-file",
+	"sourceRoot": "D:/Desktop/page1/Homepage-configuration-file",
 	"sources": [
 		"assets/scss/core.scss",
 		"assets/scss/purecss/_base.scss",
